@@ -1,4 +1,4 @@
-![Descripción de la imagen](https://github.com/YeniferBriceno/YeniferBriceno/blob/main/DALL%C2%B7E%202024-09-23%2012.51.21%20-%20A%20vibrant%20yet%20professional%20office%20scene%20featuring%20a%20cartoon-style%20Venezuelan%20woman%20with%20Latin%20features.%20She%20has%20long%20black%20hair%20falling%20to%20the%20middle%20.jpg?raw=true)
+![Descripción de la imagen](https://github.com/YeniferBriceno/YeniferBriceno/blob/main/Imagen1.jpg)
 
 # Hola 😄 soy Yenifer Briceño - Data Analyst | Business Intelligence
 
