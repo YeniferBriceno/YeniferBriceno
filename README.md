@@ -1,3 +1,4 @@
+![Alt text de la imagen]("C:\Users\yenif\Downloads\yenifer analista de datos.jpg")
 # Hola 😄 soy Yenifer Briceño - Data Analyst | Business Intelligence
 
 ## 📌 ¿Quién soy?
