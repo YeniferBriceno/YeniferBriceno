@@ -1,4 +1,4 @@
-![Alt text de la imagen](file:///C:/Users/yenif/Downloads/DALL%C2%B7E%202024-09-23%2011.42.32%20-%20A%20vibrant%20yet%20professional%20scene%20featuring%20a%20cartoon-style%20woman%20with%20long%20black%20hair%20reaching%20the%20middle%20of%20her%20back,%20with%20black%20eyes%20full%20of%20curiosi.webp)
+![Yenifer Analista de Datos](https://github.com/YeniferBriceno/YeniferBriceno/blob/main/yenifer%20analista%20de%20datos.jpg?raw=true)
 # Hola 😄 soy Yenifer Briceño - Data Analyst | Business Intelligence
 
 ## 📌 ¿Quién soy?
