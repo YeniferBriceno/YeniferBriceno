@@ -1,4 +1,4 @@
-![Descripción de la imagen](https://github.com/YeniferBriceno/YeniferBriceno/blob/main/Imagen4.png)
+![Descripción de la imagen](https://github.com/YeniferBriceno/YeniferBriceno/blob/main/Impulsando%20el%20%C3%A9xito%20empresarial%20a%20trav%C3%A9s%20del%20an%C3%A1lisis%20(1).png)
 
 # Hola 😄 soy Yenifer Briceño - Data Analyst | Business Intelligence
 
