@@ -1,7 +1,5 @@
 ![Descripción de la imagen](https://github.com/YeniferBriceno/YeniferBriceno/blob/main/Impulsando%20el%20%C3%A9xito%20empresarial%20a%20trav%C3%A9s%20del%20an%C3%A1lisis%20(1).png)
 
-# Hola 😄 soy Yenifer Briceño - Data Analyst | Business Intelligence
-
 ## 📌 ¿Quién soy?
 Mis amigos me llaman Yeni, soy **Contadora Pública** desde el 2014 y apasionada por el análisis de datos desde muy chica, el camino ha sido largo pero te puedo resumir que mi ultimo proyecto laboral fue liderar mi propio emprendimiento en pastelería por más de 5 años (transforme mi hobbie en negocio 😎), al manejar mi propia empresa descubrí que mi verdadera pasion es **usar los datos para impulsar decisiones empresariales estratégicas**. y mi nuevo objetivo se convirtio en unir el conocimiento de la gestión de empresas con el poder del **Business Intelligence** para transformar la información en valor para las organizaciones.
 
