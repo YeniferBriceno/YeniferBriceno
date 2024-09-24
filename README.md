@@ -1,4 +1,4 @@
-![Descripción de la imagen](https://github.com/YeniferBriceno/YeniferBriceno/blob/main/Imagen1.jpg)
+![Descripción de la imagen](https://github.com/YeniferBriceno/YeniferBriceno/blob/main/Imagen4.png)
 
 # Hola 😄 soy Yenifer Briceño - Data Analyst | Business Intelligence
 
